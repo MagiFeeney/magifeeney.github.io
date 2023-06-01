@@ -130,5 +130,7 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-
-li { display: inline; }
+li {
+    float: left;
+    margin: 0 15px
+}
