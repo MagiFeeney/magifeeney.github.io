@@ -131,6 +131,7 @@ span.highlight {
 }
 
 li {
-    float: left;
-    margin: 0 15px
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
