@@ -130,8 +130,8 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-/* li { */
-/*   overflow: hidden;  */
-/*   text-overflow: ellipsis; */
-/*   white-space: nowrap; */
-/* } */
+li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
