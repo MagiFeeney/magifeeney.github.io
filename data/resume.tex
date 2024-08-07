@@ -81,6 +81,15 @@
   }
 }
 
+\newcommand{\resumeSubheadingAdditional}[5]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small #3 & \textit{\small #4} \\
+      \small {Advisor: }\small #5 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
@@ -150,27 +159,32 @@
 
 %-----------Education-----------
 \section{Education}
-  \resumeSubHeadingListStart
+\resumeSubHeadingListStart
+    \resumeSubheadingAdditional
+      {National University of Singapore}{Singapore}
+      {\textbf{Doctor of Philosophy} in Computer Science}{Aug. 2024 -- Present}
+      {Prof. Wee Sun Lee}
     \resumeSubheading
-      {Northwestern Polytechnical University}{Shaanxi, Xi'an}
+      {Northwestern Polytechnical University}{Xi'an, Shaanxi}
       {\textbf{Bachelor of Science} in Statistics}{Aug. 2019 -- Jul. 2023}
-    \resumeItemListStart
-      \resumeItem
-      {Overall GPA: 3.744/4.1}
-     \resumeItem
-      {Rank: 1/24}
-     \resumeItem
-      {Major Courses: Mathematical Analysis, Linear Algebra, Real Analysis, Functional Analysis, Abstract Algebra, Probability, Mathematical Statistics, Stochastic Process, Optimization, Differential Geometry}
-      \resumeItem
-      {Other Courses: Reinforcement Learning, Statistical Learning, Machine Learning, Data Structures and Algorithms}
-    \resumeItemListEnd
+    % \resumeItemListStart
+    %   \resumeItem
+    %   {Overall GPA: 3.744/4.1}
+    %  \resumeItem
+    %   {Rank: 1/24}
+    %  \resumeItem
+    %   {Major Courses: Mathematical Analysis, Linear Algebra, Real Analysis, Functional Analysis, Abstract Algebra, Probability, Mathematical Statistics, Stochastic Process, Optimization, Differential Geometry}
+    %   \resumeItem
+    %   {Other Courses: Reinforcement Learning, Statistical Learning, Machine Learning, Data Structures and Algorithms}
+    % \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 %-----------Preprint-----------
 \section{Preprint}
-      \resumeItemListStart
-        \resumeItem{Ma, J. \href{https://arxiv.org/abs/2302.00533}{\color{darkblue}{Distillation Policy Optimization}}. (arXiv, 2023)}
-      \resumeItemListEnd
+\resumeItemListStart
+\resumeItem{Ma, J. \href{https://arxiv.org/abs/2302.00533}{\color{darkblue}{Distillation Policy Optimization}}. (arXiv, 2023)}
+\resumeItem{Ma, J. \href{https://arxiv.org/abs/2208.09322}{\color{darkblue}{Entropy Augmented Reinforcement Learning}}. (arXiv, 2022)}
+\resumeItemListEnd
       
 %-----------Publication-----------
 \section{Publication}
