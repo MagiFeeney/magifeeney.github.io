@@ -96,28 +96,6 @@
 	--max-paragraph-width: 70ch;
 }
 
-@media (prefers-color-scheme: light) {
-	:root {
-		--color-background: #ffffff;
-		--color-text: #000000;
-		--color-secondary: #333;
-		--color-shadow: #eee;
-		--color-link: #0000bb;
-		--color-link-active: #223fbf;
-	}
-}
-
-@media (prefers-color-scheme: dark) {
-	:root {
-		--color-background: #000000;
-		--color-text: #ffffff;
-		--color-secondary: #eee;
-		--color-shadow: #333;
-		--color-link: #00bcff;
-		--color-link-active: #79a8ff;
-	}
-}
-
 body {
 	font-family: "PT Sans", sans-serif;
 	font-size: 120%;
