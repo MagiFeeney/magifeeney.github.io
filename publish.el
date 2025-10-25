@@ -86,7 +86,7 @@ Made possible by Emacs and Org mode
   "The `:publishing-directory' for taingram.org project.")
 
 (setq taingram--publish-directory
-      (expand-file-name "html/"
+      (expand-file-name "docs/"
                         (file-name-directory
                          (or load-file-name buffer-file-name))))
 
