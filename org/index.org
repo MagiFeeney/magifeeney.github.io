@@ -53,9 +53,9 @@ The core research problems that I am actively working on and will continue to an
 #+end_projects
 
 * Miscellaneous
-- I am passionate about soccer, for which I established a team called "Boyzone".
+- I am passionate about soccer, for which I established a team called "[[file:photos/boyzone.jpeg][Boyzone]]".
 - I love painting, music and dancing.
-- I am into the rock band AC/DC, for its power, spirit and simplicity.
+- I am into the rock band [[https://en.wikipedia.org/wiki/AC/DC][AC/DC]], for its power, spirit and simplicity.
 
 
 # * Blog  [[file:rss.org][{{{rss}}}]]

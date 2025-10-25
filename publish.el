@@ -212,7 +212,7 @@ Made possible by Emacs and Org mode
 	("static"
 	 :base-directory ,taingram--base-directory
 	 :base-extension "txt\\|css\\|woff\\|woff2"
-	 :include ("profile.jpg")
+	 :include ("photos/profile.jpg")
 	 :exclude "blog/"
 	 :recursive t
 	 :publishing-directory ,taingram--publish-directory
