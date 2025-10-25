@@ -2,7 +2,7 @@
 #+HTML_HEAD_EXTRA: <style>@media (min-width: 43em) { .profile-pic { float: right; } } .projects dt, .blog-entries a {font-weight: bold; font-size: 1.2em; } .projects dd { padding-top: 0.5em; padding-bottom: 0.5em; } .blog-entries ul { list-style: none; padding-left: 0; } .blog-entries li { padding-bottom: 5mm; }  .blog-entries .timestamp { font-size: 90%; display: block; }</style>
 
 #+begin_profile-pic
-[[file:profile.jpg]]
+[[file:photos/profile.jpg]]
 #+end_profile-pic
 
 #+ATTR_HTML: :id home-nav
