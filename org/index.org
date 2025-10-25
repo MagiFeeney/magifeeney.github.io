@@ -1,0 +1,65 @@
+#+TITLE: Jianfei Ma (Magi Feeney)
+#+HTML_HEAD_EXTRA: <style>@media (min-width: 43em) { .profile-pic { float: right; } } .projects dt, .blog-entries a {font-weight: bold; font-size: 1.2em; } .projects dd { padding-top: 0.5em; padding-bottom: 0.5em; } .blog-entries ul { list-style: none; padding-left: 0; } .blog-entries li { padding-bottom: 5mm; }  .blog-entries .timestamp { font-size: 90%; display: block; }</style>
+
+#+begin_profile-pic
+[[file:profile.jpg]]
+#+end_profile-pic
+
+#+ATTR_HTML: :id home-nav
+#+begin_nav
+- [[mailto:maedggie@gmail.com][Email]]
+- [[file:files/resume.pdf][CV]]
+- [[https://scholar.google.com/citations?user=FldpxUgAAAAJ&hl=en][Google Scholar]]
+- [[https://github.com/MagiFeeney/][GitHub]]
+#+end_nav
+
+I am a second-year Ph.D. student in Computer Science at National University of Singapore advised by [[https://www.comp.nus.edu.sg/~leews/][Prof. Wee Sun Lee]] with a focus on *reinforcement learning*.
+
+I received my Bachelor's degree in Statistics from Northwestern Polytechnical University, where I studied mathematics and statistics.
+
+* Research
+I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize the autonomous AI systems for a wide spectrum of applications that benefit the society.
+
+The core research problems that I am actively working on and will continue to answer are
+
+- *Sample Efficiency* How to acquire skills and adapt to novel situations with minimal data is a long-standing challenge in the field.
+- *World Models* Predictive models with a universal state representation enable fine-grained planning and reasoning.
+- *Intrinsic Motivation* Without hand-crafted rewards, how could an agent maintain its well-being and possibly refine its policy?
+- *Hierarchy* Whatever level of abstraction occurs, hierarchy persists temporally and spatially in both decision-making and vision.
+- *Uncertainty* Understanding the world by reducing epistemic uncertainty, and influencing it by maximizing reward in the face of aleatoric uncertainty.
+
+* Highlighted Works
+#+begin_projects
+- [[https://arxiv.org/pdf/2310.08091][Discerning Temporal Difference Learning]] ::
+  *Jianfei Ma* \\
+  /AAAI/, 2024 \\
+  [[https://arxiv.org/pdf/2310.08091][Paper]]
+- [[https://arxiv.org/pdf/2310.08100][Generative Intrinsic Optimization: Intrinsic Control with Model Learning]] ::
+  *Jianfei Ma* \\
+  /NeurIPS Workshop IMOL/, 2023 \\
+  [[https://arxiv.org/pdf/2310.08100][Paper]]
+- [[https://arxiv.org/pdf/2303.01240][The Point to Which Soft Actor-Critic Converges]] ::
+  *Jianfei Ma* \\
+  /ICLR Tiny Papers/, 2023 \\
+  [[https://arxiv.org/pdf/2303.01240][Paper]]
+- [[https://arxiv.org/pdf/2302.00533][Distillation Policy Optimization]] ::
+  *Jianfei Ma* \\
+  /Preprint/, 2023 \\
+  [[https://arxiv.org/pdf/2302.00533][Paper]], [[https://github.com/MagiFeeney/DPO][Code]]
+- [[https://arxiv.org/pdf/2208.09322][Entropy Augmented Reinforcement Learning]] ::
+  *Jianfei Ma* \\
+  /Preprint/, 2022 \\
+  [[https://arxiv.org/pdf/2208.09322][Paper]]
+#+end_projects
+
+* Miscellaneous
+- I am passionate about soccer, for which I established a team called "Boyzone".
+- I love painting, music and dancing.
+- I am into the rock band AC/DC, for its power, spirit and simplicity.
+
+
+# * Blog  [[file:rss.org][{{{rss}}}]]
+
+# #+begin_blog-entries
+# #+INCLUDE: "blog/index.org" :lines "3-"
+# #+end_blog-entries
