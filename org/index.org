@@ -18,7 +18,7 @@ I am a second-year Ph.D. student in Computer Science at National University of S
 I received my Bachelor's degree in Statistics from Northwestern Polytechnical University, where I studied mathematics and statistics.
 
 * Research
-I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize the autonomous AI systems for a wide spectrum of applications that benefit the society.
+I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize autonomous AI systems for a wide spectrum of applications that benefit the society.
 
 The core research problems that I am actively working on and will continue to answer are
 
