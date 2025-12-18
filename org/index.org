@@ -30,6 +30,10 @@ The core research problems that I am actively working on and will continue to an
 
 * Highlighted Works
 #+begin_projects
+- [[https://arxiv.org/pdf/2512.15405][EUBRL: Epistemic Uncertainty Directed Bayesian Reinforcement Learning]] ::
+  *Jianfei Ma*, Wee Sun Lee \\
+  Preprint, 2025 \\
+  [[https://arxiv.org/pdf/2512.15405][Paper]], [[https://github.com/MagiFeeney/EUBRL][Code]]
 - [[https://arxiv.org/pdf/2310.08091][Discerning Temporal Difference Learning]] ::
   *Jianfei Ma* \\
   /AAAI/, 2024 \\
