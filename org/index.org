@@ -1,5 +1,5 @@
 #+TITLE: Jianfei Ma
-#+HTML_HEAD_EXTRA: <style>@media (min-width: 43em) { .profile-pic { float: right; } } .projects dt, .blog-entries a {font-weight: bold; font-size: 1.2em; } .projects dd { padding-top: 0.5em; padding-bottom: 0.5em; } .blog-entries ul { list-style: none; padding-left: 0; } .blog-entries li { padding-bottom: 5mm; }  .blog-entries .timestamp { font-size: 90%; display: block; }</style>
+#+HTML_HEAD_EXTRA: <style> #nav-home-link a { color: var(--color-text); } @media (min-width: 43em) { .profile-pic { float: right; } } .projects dt, .blog-entries a {font-weight: bold; font-size: 1.2em; } .projects dd { padding-top: 0.5em; padding-bottom: 0.5em; } .blog-entries ul { list-style: none; padding-left: 0; } .blog-entries li { padding-bottom: 5mm; }  .blog-entries .timestamp { font-size: 90%; display: block; } .title { text-align: center; }</style>
 
 #+begin_profile-pic
 [[file:photos/profile.jpg]]
