@@ -1,6 +1,8 @@
 /* -*- tab-width: 4 -*- */
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100..800&display=swap');
+
 /* PT Serif fonts */
 
 @font-face {
@@ -98,11 +100,12 @@
 }
 
 body {
-	font-family: "PT Sans", sans-serif;
+	/* font-family: "PT Sans", sans-serif; */
+    font-family: "JetBrains Mono", monospace;
 	font-size: 120%;
 	margin: 0 auto;
 	padding: 0 1em;
-	max-width: 54rem;
+	max-width: 65rem;
 	color: var(--color-text);
 	background: var(--color-background);
 }
@@ -129,7 +132,7 @@ body {
 }
 
 p {
-	font-family: "PT Sans", sans-serif;
+    font-family: "JetBrains Mono", monospace;
 	line-height: 160%;
 }
 
@@ -139,7 +142,7 @@ p {
 
 #postamble {
 	max-width: var(--max-paragraph-width);
-	max-width: 54rem;
+	max-width: 65rem;
 	margin: auto;
 }
 
@@ -198,14 +201,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-	max-width: 64rem;
+	max-width: 65rem;
 	margin: auto 0;
 	padding-top: 2.8em;
 }
 
 .title {
     font-family: "Archivo Black", sans-serif;
-	font-size: 2.8em;
+	font-size: 2.6em;
 	text-align: center;
 }
 

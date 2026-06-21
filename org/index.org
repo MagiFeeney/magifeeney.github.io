@@ -11,14 +11,14 @@ I received my Bachelor's degree in Statistics from Northwestern Polytechnical Un
 
 #+ATTR_HTML: :id home-nav
 #+begin_nav
-- [[mailto:maedggie@gmail.com][Email]]
+- [[mailto:feeneymagi@gmail.com][Email]]
 - [[file:files/resume.pdf][CV]]
 - [[https://scholar.google.com/citations?user=FldpxUgAAAAJ&hl=en][Google Scholar]]
 - [[https://github.com/MagiFeeney/][GitHub]]
 #+end_nav
 
 * Research
-I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize autonomous AI systems for a wide spectrum of applications that benefit the society.
+I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize autonomous AI systems that transform the society.
 
 The core research problems that I am actively working on and will continue to answer are
 
