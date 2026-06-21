@@ -5,6 +5,10 @@
 [[file:photos/profile.jpg]]
 #+end_profile-pic
 
+I am a second-year Ph.D. student in Computer Science at National University of Singapore advised by [[https://www.comp.nus.edu.sg/~leews/][Prof. Wee Sun Lee]] with a focus on *reinforcement learning*.
+
+I received my Bachelor's degree in Statistics from Northwestern Polytechnical University, where I studied mathematics and statistics.
+
 #+ATTR_HTML: :id home-nav
 #+begin_nav
 - [[mailto:maedggie@gmail.com][Email]]
@@ -12,10 +16,6 @@
 - [[https://scholar.google.com/citations?user=FldpxUgAAAAJ&hl=en][Google Scholar]]
 - [[https://github.com/MagiFeeney/][GitHub]]
 #+end_nav
-
-I am a second-year Ph.D. student in Computer Science at National University of Singapore advised by [[https://www.comp.nus.edu.sg/~leews/][Prof. Wee Sun Lee]] with a focus on *reinforcement learning*.
-
-I received my Bachelor's degree in Statistics from Northwestern Polytechnical University, where I studied mathematics and statistics.
 
 * Research
 I am broadly interested in reinforcement learning and decision-making. My current research focuses on *active exploration*, *structured memory*, *multi-step world models*, and *hierarchical RL*. The ultimate goal is to realize autonomous AI systems for a wide spectrum of applications that benefit the society.
